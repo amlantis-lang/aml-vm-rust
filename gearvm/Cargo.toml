@@ -2,3 +2,4 @@
 name = "gearvm"
 version = "0.1.0"
 authors = ["Markéta Lisová <marketa@lisova.cz>"]
+build = "build.rs"
