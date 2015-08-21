@@ -1,6 +1,6 @@
 [package]
-name = "gearvm"
-version = "0.3.0"
+name = "amlvm"
+version = "0.4.0"
 authors = ["Markéta Lisová <marketa@lisova.cz>"]
 license = "MIT"
 build = "build.rs"
